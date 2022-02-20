@@ -18,11 +18,12 @@ June Temps Summary:
 December Temps Summary:
 
 <img width="137" alt="Dec_temps_summary" src="https://user-images.githubusercontent.com/95047485/154865280-d6c299bb-b78f-4aba-9bd1-a2a1d6cc1aa6.PNG">
+
 ### Rundown
-*The average temps in December are lower than average temps in June
-    *This could lead to less ice cream sales, however surfing is better in December so that could make up for the loss in ice cream sales
-*While the temperatures are lower in December, they are still well within the range of expecting good ice cream sales
-*The max temperatures are only 2 degrees apart
+* The average temps in December are lower than average temps in June
+    * This could lead to less ice cream sales, however surfing is better in December so that could make up for the loss in ice cream sales
+* While the temperatures are lower in December, they are still well within the range of expecting good ice cream sales
+* The max temperatures are only 2 degrees apart
 
 ## Summary
 With the seasonality of both surfing and icecream, it is the opinion of this analyst that the shop is a good idea. While one activity might be down in participation, the other will be up.
