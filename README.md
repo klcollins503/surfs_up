@@ -11,8 +11,11 @@ Once the data was queried and converted to a pandas dataframe we can run summary
 ### Summary Statistics
 The results of the June and December weather station temperature observation dataframe summary statistics are shown below:
 June Temps Summary:
+
 <img width="151" alt="June_temps_summary" src="https://user-images.githubusercontent.com/95047485/154865267-4284fac5-f4de-4fc6-88ca-901ad4840a09.PNG">
+
 December Temps Summary:
+
 <img width="137" alt="Dec_temps_summary" src="https://user-images.githubusercontent.com/95047485/154865280-d6c299bb-b78f-4aba-9bd1-a2a1d6cc1aa6.PNG">
 ### Rundown
 * The average temps in December are lower than average temps in June
