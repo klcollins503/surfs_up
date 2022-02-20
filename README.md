@@ -10,6 +10,7 @@ Once the data was queried and converted to a pandas dataframe we can run summary
 ## Results
 ### Summary Statistics
 The results of the June and December weather station temperature observation dataframe summary statistics are shown below:
+
 June Temps Summary:
 
 <img width="151" alt="June_temps_summary" src="https://user-images.githubusercontent.com/95047485/154865267-4284fac5-f4de-4fc6-88ca-901ad4840a09.PNG">
